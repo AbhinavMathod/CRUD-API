@@ -1,6 +1,4 @@
-To create a simple RESTful API using nodejs,expressjs,mongoDB and simple javascript.
-Name : Abhinav Nagaraj 
-NUID : 001341367
+A simple RESTful API using nodejs,expressjs,mongoDB and simple javascript.
 Technologies used :
 Nodejs
 Expressjs
